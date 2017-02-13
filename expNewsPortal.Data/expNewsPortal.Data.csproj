@@ -50,11 +50,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataContext\NewsContext.cs" />
+    <Compile Include="Data\ImageItem.cs" />
+    <Compile Include="Data\NewsItem.cs" />
     <Compile Include="Data\Role.cs" />
     <Compile Include="Data\User.cs" />
+    <Compile Include="Infrastructure\IRepository.cs" />
     <Compile Include="Migrations\201702131237303_Create.cs" />
     <Compile Include="Migrations\201702131237303_Create.Designer.cs">
       <DependentUpon>201702131237303_Create.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201702131407169_Create1.cs" />
+    <Compile Include="Migrations\201702131407169_Create1.Designer.cs">
+      <DependentUpon>201702131407169_Create1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,6 +73,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201702131237303_Create.resx">
       <DependentUpon>201702131237303_Create.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702131407169_Create1.resx">
+      <DependentUpon>201702131407169_Create1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

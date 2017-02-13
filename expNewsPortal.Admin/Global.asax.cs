@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using expNewsPortal.Admin.Helper;
 
 namespace expNewsPortal.Admin
 {
@@ -13,6 +14,7 @@ namespace expNewsPortal.Admin
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            BootStrapper.RunConfig();
         }
     }
 }

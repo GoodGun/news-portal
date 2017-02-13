@@ -10,3 +10,4 @@ C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.pdb
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.Migrations.Create.resources
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.csproj.GenerateResource.Cache
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.Migrations.Create1.resources

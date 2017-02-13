@@ -44,3 +44,11 @@ C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\System.Web.Mvc.xml
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\obj\Debug\expNewsPortal.Admin.csprojResolveAssemblyReference.cache
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\obj\Debug\expNewsPortal.Admin.dll
 C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\obj\Debug\expNewsPortal.Admin.pdb
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\Autofac.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\Autofac.Integration.Mvc.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\EntityFramework.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\EntityFramework.SqlServer.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\Autofac.xml
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\Autofac.Integration.Mvc.xml
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\EntityFramework.xml
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Admin\bin\EntityFramework.SqlServer.xml
