@@ -1,0 +1,12 @@
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\expNewsPortal.Data.dll.config
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\expNewsPortal.Data.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\expNewsPortal.Data.pdb
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\EntityFramework.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\EntityFramework.xml
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.csprojResolveAssemblyReference.cache
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.dll
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.pdb
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.Migrations.Create.resources
+C:\Users\utufan\Desktop\expNewsPortal\expNewsPortal.Data\obj\Debug\expNewsPortal.Data.csproj.GenerateResource.Cache
